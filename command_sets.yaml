@@ -1,4 +1,7 @@
 command_sets:
   billing:
-    sourcePath: https://raw.githubusercontent.com/ericswildens/billing/master/src
+    sourcePath: https://raw.githubusercontent.com/ericswildens/billing/master/src/commands.yaml
     description: commands to show cloud service bills
+  missing_set:
+    sourcePath: https://nimbella.com/missing_file.yaml
+    description: this command set is a test, the yaml file is missing

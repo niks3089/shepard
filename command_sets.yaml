@@ -1,0 +1,3 @@
+command_sets:
+  billing:
+    sourcePath: https://raw.githubusercontent.com/ericswildens/billing/master/src

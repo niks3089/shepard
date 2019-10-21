@@ -1,4 +1,4 @@
 command_sets:
   billing:
-    sourcePath: https://raw.githubusercontent.com/ericswildens/billing/master/commands.yaml
+    sourcePath: https://raw.githubusercontent.com/niks3089/billing/master/commands.yaml
     description: commands to show cloud service bills
